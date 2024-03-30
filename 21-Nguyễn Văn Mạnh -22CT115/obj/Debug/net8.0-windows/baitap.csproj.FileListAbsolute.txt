@@ -1,0 +1,56 @@
+C:\Users\Administrator\source\repos\baitap\bin\Debug\net8.0-windows\baitap.exe
+C:\Users\Administrator\source\repos\baitap\bin\Debug\net8.0-windows\baitap.deps.json
+C:\Users\Administrator\source\repos\baitap\bin\Debug\net8.0-windows\baitap.runtimeconfig.json
+C:\Users\Administrator\source\repos\baitap\bin\Debug\net8.0-windows\baitap.dll
+C:\Users\Administrator\source\repos\baitap\bin\Debug\net8.0-windows\baitap.pdb
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form1.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form2.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.dll
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\refint\baitap.dll
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.pdb
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\ref\baitap.dll
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form3.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form4.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form5.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form6.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form7.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Properties.Resources.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form8.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form9.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form10.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form11.resources
+C:\Users\Administrator\source\repos\baitap\obj\Debug\net8.0-windows\baitap.Form12.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\bin\Debug\net8.0-windows\baitap.exe
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\bin\Debug\net8.0-windows\baitap.deps.json
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\bin\Debug\net8.0-windows\baitap.runtimeconfig.json
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\bin\Debug\net8.0-windows\baitap.dll
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\bin\Debug\net8.0-windows\baitap.pdb
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form1.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form10.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form11.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form12.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form2.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form3.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form4.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form5.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form6.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form7.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form8.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Form9.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.Properties.Resources.resources
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.dll
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\refint\baitap.dll
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.pdb
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\baitap.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\122001472-Nguyễn Văn Mạnh -22CT115\obj\Debug\net8.0-windows\ref\baitap.dll
